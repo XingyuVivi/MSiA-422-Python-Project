@@ -1,1 +1,1 @@
-# MSiA-422-Python-Project
+# MSiA 422: Python Project (Pandas, SQL)
